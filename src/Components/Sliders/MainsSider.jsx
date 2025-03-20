@@ -19,7 +19,7 @@ const videos = [
     overlayOpacity:"60%"
   },
   {
-    video: "/background/final-web.mp4",
+    video: "/background/slider-video-1.mp4",
     title: "Empowering Tomorrow with Cutting-Edge AI Solutions Today",
     description:
       "Transform your business with AI-driven innovations. Partner with hytGenX for intelligent solutions that inspire growth and success.",

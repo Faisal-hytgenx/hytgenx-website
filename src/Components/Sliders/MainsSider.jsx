@@ -10,7 +10,7 @@ import Link from "next/link";
 
 const videos = [
   {
-    video: "/background/team-video-new.mp4",
+    video: "/background/slider-video-2.mp4",
     title: "Innovating with AI for a Smarter Future",
     description:
       "AI is reshaping industries—leverage our expertise to stay ahead. Let’s build a smarter, more connected world together.",
